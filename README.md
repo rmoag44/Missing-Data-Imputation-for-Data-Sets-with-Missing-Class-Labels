@@ -16,4 +16,13 @@ unaltered.
 ## Scripts
 
 Each script should be run in paralell in separate R environments. Of course, they can be run sequentially
-but the runtime is considerable. The output of each script should be a set of .Rdata files:
+but the runtime is considerable. The output of each script should be a set of .Rdata files of the form: 
+
+error???GLM.Rdata
+error???GLMDel.Rdata
+error???LDA.Rdata
+error???LDADel.Rdata
+error???RF.Rdata
+error???RFDel.Rdata
+
+Where ??? will be the corresponding imputation method (SOM,kNN,DT) 
