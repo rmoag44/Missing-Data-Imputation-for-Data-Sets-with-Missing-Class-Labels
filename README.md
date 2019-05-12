@@ -9,11 +9,11 @@ heart disease data set had missing values and were removed and the variables wer
 cancer diagnostic data set was also given variable names. The pima indians diabetes data set was completely
 unaltered.
 
-```bash
-[heartDisease.csv](https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data)
-[wdbc.csv](https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data)
-[diabetes.csv](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
-```
+
+* [heartDisease.csv](https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data)
+* [wdbc.csv](https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data)
+* [diabetes.csv](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+
 
 ## Scripts
 
